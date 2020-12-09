@@ -1,0 +1,148 @@
+.pp{
+    text-indent: 50px; 
+    color: #898484; 
+    font-weight: 500;
+    margin-bottom: 15px
+}
+.p_h3{
+    font-size: 20px; font-weight: bold; margin-bottom: 30px;
+}
+.logo_slogan {
+    color: #ec3237 ;
+    margin-top: 2px;
+    margin-left: 1em;
+}
+.logo_slogan {
+    display: block;
+    margin-top: -0.1em;
+    margin-left: 1em;
+}
+.logo_img{
+    height: 50px;
+}
+.logo_main {
+    max-height: 100px;
+    width: auto;    
+    margin-top: 10px;
+}
+.contein_logo_text {
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: -62px;
+}
+ .logo {
+    float: none;
+    text-align: left;
+    margin-bottom: 0;
+    max-width: 100%;
+}
+.logo_text {
+    color: #191e23;
+    font-family: 'Roboto', sans-serif;
+}
+.logo_text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color:#083493;
+    vertical-align: top;
+    margin-top: 0.2em;
+    margin-left: 0.3em;
+    display: inline-block;
+    font-size: 1.8em;
+}
+.footer_logo{
+    color: #ffffff;
+    font-size: 33px;
+}
+.footer_div{
+    margin-left: 70px;
+    margin-top: -55px;
+}
+#footerDate{
+    color: #ffffff;
+}
+.nav-p{
+    font-size: 12px;
+}
+#sec-col{
+    background-color: #f7f7f7;
+}
+.sec-p{
+    text-indent: 50px; 
+    color: black; 
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+#con{
+    margin-bottom: 100px;
+}
+.bquote {
+    background-color: #f4f7fa;
+    color: #353535;
+    border-left: 2px solid #ce0315;
+}
+.sec-cont{
+    width: 670px;
+    margin-left: 90px;
+    /* margin-right: 100px; */
+}
+.footer{   
+    margin-bottom: -100px;
+}
+.ren-img{
+    max-width: 225px;
+    height: 200px;
+}
+.our-services-o {
+    overflow: hidden;
+    position: relative;
+    padding: 100px 0 70px;
+    background: #f7f7f7;
+}
+.our-services-o .sec-title p {
+    max-width: 650px;
+    margin: 0 auto;
+    color: #f14545;
+    font-weight: 900;
+    margin-top: 20px;
+}
+#mob-but{
+    margin-top: -48px;
+}
+#mob-head{
+    margin-left: -35px;
+    margin-right: -35px;
+}
+#mob-col{
+    width: 108%;
+}
+.logo_text1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color:#083493;
+    vertical-align: top;
+    margin-top: 0.2em;
+    margin-left: 0.3em;
+    display: inline-block;
+    font-size: 1.5em;
+}
+.about{
+    background-color: #f7f7f7;
+}
+.about2{
+    background-color: #ffffff;
+    padding: 100px 0px 100px;
+    
+}
+#fig-img{
+    width: 500px;
+    height: 230px;
+}
+.core-li{
+    margin-left: 20px;
+}
+#col-md{
+    margin-top: -30px;
+}
+.pagination>.active>span{background-color: #398439; border-color:#398439;}
+.pagination>li>a{color:#398439;}
